@@ -15,4 +15,7 @@ You can download RAVDESS from [here](https://www.kaggle.com/uwrfkaggler/ravdess-
 * Create a folder named `data`
 * In order to reduce resolution and that Librosa can handle it, run this command `python convert_wavs.py  raw_data/Actor_01 data/Actor_01` for each of the Actor_* folders
 
+## Result
+
+We were able to replicate the turorial successfully and [here](Librosa.ipynb) you can find the jupyter notebook.
 
