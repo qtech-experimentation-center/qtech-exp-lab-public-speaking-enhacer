@@ -8,3 +8,6 @@
 
 * [Librosa](vocal-pattern/vocal-pattern.md)
 
+## Speed Rate
+
+* [Speech Recognition](speech-rate/speech-rate.md)
