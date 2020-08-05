@@ -2,11 +2,10 @@ venv
 vocal-pattern/data
 vocal-pattern/raw_data
 .DS_Store
-
+.idea/
 *.iml
 .gradle
 /local.properties
-/*/.idea/
 /build
 /captures
 .externalNativeBuild
