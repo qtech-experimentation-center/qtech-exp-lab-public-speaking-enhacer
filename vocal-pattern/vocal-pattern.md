@@ -14,6 +14,8 @@ You can download RAVDESS from [here](https://www.kaggle.com/uwrfkaggler/ravdess-
 * You have to extract in a new folder called `raw_data`
 * Create a folder named `data`
 * In order to reduce resolution and that Librosa can handle it, run this command `python convert_wavs.py  raw_data/Actor_01 data/Actor_01` for each of the Actor_* folders
+* To Simplify the conversion, the command can be run as this script for the complete sequence of files: `./convert_audio_clips.sh`
+
 
 ## Result
 
